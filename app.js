@@ -6,10 +6,9 @@ fs.readFile('xmlVar.txt', 'utf-8', (err, xmlData) => {
         console.error(err);
         return;
     }
-
     const parsedXml = xmlParser(xmlData);
     const colors = parsedXml.root.children
-
+    console.log(parsedXml.root.children.length)
     const resultObject = {};
     colors.forEach(colorNode => {
         const name = colorNode.attributes.name;
