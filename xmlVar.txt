@@ -1,0 +1,11 @@
+<colors>
+    <color name="aswadBlack">#17181c</color>
+    <color name="kinglyCloud">#dedede</color>
+    <color name="kahuBlue">#0093d6</color>
+    <color name="tricornBlack">#2f2f30</color>
+    <color name="enchantedSilver">#b5b5bd</color>
+    <color name="sonicSilver">#757575</color>
+    <color name="supernatural">#313641</color>
+    <color name="brazilianGreen">#296d23</color>
+    <color name="deepRed">#9a0200</color>
+</colors>
